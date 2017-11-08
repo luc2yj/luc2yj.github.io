@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Academic</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Academic</description>
+    <title>Posts on  </title>
+    <link>https://luc2yj.github.io/post/</link>
+    <description>Recent content in Posts on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Your Name</copyright>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Useful links</title>
-      <link>/post/faq/</link>
+      <link>https://luc2yj.github.io/post/faq/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/post/faq/</guid>
+      <guid>https://luc2yj.github.io/post/faq/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm&#34; target=&#34;_blank&#34;&gt;Security conference ranking&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://s3.eurecom.fr/~balzarot/notes/top4/index.html&#34; target=&#34;_blank&#34;&gt;System Security Circus v2.0&lt;/a&gt;&lt;/p&gt;
