@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>  on  </title>
-    <link>https://luc2yj.github.io/</link>
+    <link>https://luc2yj.github.io/public/</link>
     <description>Recent content in   on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Your Name</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="/public/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mass Discovery of Android Traffic Imprints through Instantiated Partial Execution</title>
-      <link>https://luc2yj.github.io/publication/2017netsig/</link>
+      <link>https://luc2yj.github.io/public/publication/2017netsig/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://luc2yj.github.io/publication/2017netsig/</guid>
+      <guid>https://luc2yj.github.io/public/publication/2017netsig/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>HanGuard: SDN-driven protection of smart home WiFi devices from malicious mobile apps</title>
-      <link>https://luc2yj.github.io/publication/2017hanguard/</link>
+      <link>https://luc2yj.github.io/public/publication/2017hanguard/</link>
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://luc2yj.github.io/publication/2017hanguard/</guid>
+      <guid>https://luc2yj.github.io/public/publication/2017hanguard/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ghost Installer in the Shadow: Security Analysis of App Installation on Android</title>
-      <link>https://luc2yj.github.io/publication/2017gia/</link>
+      <link>https://luc2yj.github.io/public/publication/2017gia/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://luc2yj.github.io/publication/2017gia/</guid>
+      <guid>https://luc2yj.github.io/public/publication/2017gia/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Useful links</title>
-      <link>https://luc2yj.github.io/post/faq/</link>
+      <link>https://luc2yj.github.io/public/post/faq/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://luc2yj.github.io/post/faq/</guid>
+      <guid>https://luc2yj.github.io/public/post/faq/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm&#34; target=&#34;_blank&#34;&gt;Security conference ranking&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://s3.eurecom.fr/~balzarot/notes/top4/index.html&#34; target=&#34;_blank&#34;&gt;System Security Circus v2.0&lt;/a&gt;&lt;/p&gt;
@@ -54,50 +54,50 @@
     
     <item>
       <title>Finding Unknown Malice in 10 Seconds: Mass Vetting for New Threats at the Google-Play Scale</title>
-      <link>https://luc2yj.github.io/publication/2015massvet/</link>
+      <link>https://luc2yj.github.io/public/publication/2015massvet/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://luc2yj.github.io/publication/2015massvet/</guid>
+      <guid>https://luc2yj.github.io/public/publication/2015massvet/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>What&#39;s in Your Dongle and Bank Account? Mandatory and Discretionary Protection of Android External Resources.</title>
-      <link>https://luc2yj.github.io/publication/2015seacat/</link>
+      <link>https://luc2yj.github.io/public/publication/2015seacat/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://luc2yj.github.io/publication/2015seacat/</guid>
+      <guid>https://luc2yj.github.io/public/publication/2015seacat/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Following devil&#39;s footprints: Cross-platform analysis of potentially harmful libraries on android and ios</title>
-      <link>https://luc2yj.github.io/publication/2016fdevfoot/</link>
+      <link>https://luc2yj.github.io/public/publication/2016fdevfoot/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://luc2yj.github.io/publication/2016fdevfoot/</guid>
+      <guid>https://luc2yj.github.io/public/publication/2016fdevfoot/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mayhem in the push clouds: Understanding and mitigating security hazards in mobile push-messaging services</title>
-      <link>https://luc2yj.github.io/publication/2014mayhem/</link>
+      <link>https://luc2yj.github.io/public/publication/2014mayhem/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://luc2yj.github.io/publication/2014mayhem/</guid>
+      <guid>https://luc2yj.github.io/public/publication/2014mayhem/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The peril of fragmentation: Security hazards in android device driver customizations</title>
-      <link>https://luc2yj.github.io/publication/2014peril/</link>
+      <link>https://luc2yj.github.io/public/publication/2014peril/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://luc2yj.github.io/publication/2014peril/</guid>
+      <guid>https://luc2yj.github.io/public/publication/2014peril/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
